@@ -1,0 +1,11 @@
+/*
+    Autor: Kevin Flores
+    22 de Noviembre del 2022
+*/
+
+body{
+    height: 800px;
+    color: white;
+    background-image: linear-gradient(to bottom, blue, red);
+    background-repeat: no-repeat;
+}
